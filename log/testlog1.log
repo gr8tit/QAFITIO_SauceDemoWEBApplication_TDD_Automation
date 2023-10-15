@@ -1,0 +1,121 @@
+2023-10-06 23:09:52,899 [main] INFO AutomationClass_Setup - Test is Starting
+2023-10-06 23:10:07,442 [main] INFO AutomationClass_Setup - Test is Starting
+2023-10-06 23:17:59,338 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:18:02,760 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:18:02,776 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:18:12,799 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:19:09,142 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:19:12,482 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:19:12,513 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:19:22,529 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:30:02,767 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:30:06,168 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:30:06,181 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:30:16,204 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:31:10,648 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:31:13,993 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:31:14,005 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:31:24,019 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:33:05,531 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:33:08,886 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:33:08,897 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:33:18,921 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:34:23,737 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:34:27,140 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:34:27,165 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:34:37,183 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:35:53,696 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:35:57,039 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:35:57,060 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:36:07,110 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:38:26,925 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:38:30,292 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:38:30,320 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:38:40,342 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:40:43,600 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:40:46,939 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:40:46,953 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:40:56,970 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:42:55,625 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:42:58,966 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:42:58,986 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:43:09,007 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:51:19,483 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:51:22,848 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:51:22,863 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:51:22,875 [main] INFO AutomationClass_Setup - Completed Test 1
+2023-10-06 23:52:10,223 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:52:13,558 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:52:13,569 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-06 23:52:22,424 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-06 23:52:25,743 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-06 23:52:25,749 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-07 00:05:42,360 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 00:05:45,693 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-07 00:05:45,704 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-07 00:06:26,194 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 00:06:29,528 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-07 00:06:29,541 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-07 17:20:11,705 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 17:20:15,079 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-07 17:20:15,092 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-07 17:58:44,439 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 17:58:48,171 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-07 17:58:48,186 [main] INFO AutomationClass_Setup - User now on the home Page
+2023-10-07 18:38:54,203 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 18:41:40,535 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 18:41:44,367 [main] INFO AutomationClass_Setup - Test Failed! 
+2023-10-07 18:42:48,752 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 18:42:52,629 [main] INFO AutomationClass_Setup - Test Failed! 
+2023-10-07 18:46:28,365 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 18:46:33,252 [main] INFO AutomationClass_Setup - Test Failed! 
+2023-10-07 18:57:32,791 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 18:57:36,398 [main] INFO AutomationClass_Setup - Test Failed! 
+2023-10-07 18:58:34,652 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 18:58:38,475 [main] INFO AutomationClass_Setup - Test Failed! 
+2023-10-07 18:59:55,803 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-07 18:59:59,374 [main] INFO AutomationClass_Setup - Test Failed! 
+2023-10-08 16:07:26,446 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-08 16:07:30,059 [main] INFO AutomationClass_Setup - User is locked out
+2023-10-08 17:11:06,291 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-08 17:11:10,379 [main] INFO AutomationClass_Setup - User is locked out
+2023-10-08 17:36:06,203 [main] INFO AutomationClass_Setup - Test is starting
+2023-10-08 17:36:10,176 [main] INFO AutomationClass_Setup - User is on the Product Page
+2023-10-08 17:45:59,614 [main] INFO AutomationClass_Setup - Test is starting
+2023-10-14 11:34:17,003 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-14 11:34:20,996 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-14 11:37:04,679 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-14 11:37:08,064 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-14 11:47:49,151 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-14 11:47:52,529 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-14 11:54:16,336 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-14 11:54:19,707 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-14 12:19:06,204 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-14 12:19:09,549 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-14 12:28:17,507 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-14 12:28:20,878 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-14 12:29:05,974 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-14 12:29:09,320 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 17:37:19,979 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 17:37:23,339 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 17:40:08,106 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 17:40:11,550 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 17:40:38,501 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 17:40:41,865 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 17:41:23,649 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 17:41:27,006 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 17:44:55,841 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 17:44:59,199 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 18:36:15,625 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 18:36:18,997 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 18:37:29,221 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 18:37:32,610 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 18:39:21,394 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 18:39:24,785 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 18:42:49,901 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 18:42:53,331 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 18:43:43,979 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 18:43:47,400 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 18:54:47,036 [main] INFO AutomationClass_Setup - Attempting Login
+2023-10-15 18:54:50,407 [main] INFO AutomationClass_Setup - User has Logged in
+2023-10-15 18:54:51,744 [main] INFO AutomationClass_Setup - Product is not available

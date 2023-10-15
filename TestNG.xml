@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="LoginTest">
+        <classes>
+            <class name="TestCases.SD_001_VerifyValidUserLogin"/>
+
+            <!-- Add more test classes as needed -->
+        </classes>
+    </test>
+</suite>
